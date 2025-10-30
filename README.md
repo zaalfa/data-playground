@@ -17,7 +17,7 @@ These projects are focused on strengthening my analytical and problem-solving sk
 
 | Project | Description | Main Focus |
 |----------|--------------|-------------|
-| [Health Case Bill Analysis](./projects/health-case-bill-analysis) | Analyzed health insurance billing data to identify factors influencing total medical charges such as age, BMI, gender, and smoking habits. | EDA, statistical testing, cost driver analysis |
+| [Health Case Bill Analysis](./projects/healthcare-bill-analysis) | Analyzed health insurance billing data to identify factors influencing total medical charges such as age, BMI, gender, and smoking habits. | EDA, statistical testing, cost driver analysis |
 | [Business Analytics: Paid Search Campaign](./projects/paid-search-campaign) | Evaluated paid search campaign performance to identify which ad groups were profitable and which required optimization. | Marketing analytics, campaign performance |
 | [Statistic for Business: WOMart Sales Prediction](./projects/womart-sales-prediction) | Built regression models to predict sales and identify key factors affecting store revenue. | Predictive modeling, regression, hypothesis testing |
 
